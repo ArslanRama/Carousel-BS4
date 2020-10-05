@@ -1,4 +1,4 @@
-*, ::after, ::before {
+/* *, ::after, ::before {
     box-sizing: border-box;
 }
 
@@ -59,4 +59,4 @@ footer {
   .featurette-heading {
     margin-top: 7rem;
   }
-}
+} */
